@@ -33,14 +33,14 @@ item {
 .actions button {
   font: inherit;
   cursor: pointer;
-  color: #77002e;
-  border: 1px solid #77002e;
+  color: #414770;
+  border: 1px solid #414770;
   background-color: transparent;
   padding: 0.5rem 1.5rem;
-  border-radius: 4px;
+  border-radius: 25px;
 }
 
 .actions button:hover,
 .actions button:active {
-  background-color: #ffe2ed;
+  background-color: #ccdde2;
 }
