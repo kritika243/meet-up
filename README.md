@@ -6,6 +6,10 @@ A collection of meetups, go ahead add a meetup and favorite some
 
 React, Firebase
 
+### Preview
+
+![](https://github.com/kritika243/meet-up/blob/main/public/meet-up-demo.gif)
+
 ### To run locally
 
 In the project directory, you can run:
